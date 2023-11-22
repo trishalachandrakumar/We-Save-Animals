@@ -1,0 +1,174 @@
+.heading-1 {
+    font-size: 48px;
+    color: #0057FF;
+    text-align: center;
+    font-weight: bold;
+}
+
+.heading-3 {
+    font-size: 36px;
+    color: #0C7003;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+
+.heading-4 {
+    font-size: 36px;
+    color: #0C7003;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 190px;
+    margin-left: 100px;
+}
+
+
+.heading-5 {
+    font-size: 24px;
+    color: #3DA734;
+    text-align: left;
+    font-weight: 100;
+    margin-left: 100px;
+}
+
+body {
+    background-color: #D8FFCA;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f88a09;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #D9D9D9;
+}
+
+.logo {
+    float: left;
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 50px;
+    resize: both;
+}
+
+.icon {
+    margin: 5px;
+    padding-left: 10px;
+}
+
+.icon i {
+    font-size: x-large;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 7px;
+    float: inline-start;
+}
+
+.pic-1 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 80px;
+}
+
+.pic-2 {
+    float: right;
+    width: 200px;
+    height: 200px;
+    margin: 80px;
+}
+
+.pic-3 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 80px;
+}
+
+.pic-4 {
+    float: right;
+    width: 200px;
+    height: 200px;
+    margin: 80px;
+}
+
+.pic-5 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 80px;
+}
+
+.pic-6 {
+    float: right;
+    width: 200px;
+    height: 200px;
+    margin: 80px;
+}
+
+.pic-7 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 80px;
+}
+
+.pic-8 {
+    float: right;
+    width: 200px;
+    height: 200px;
+    margin: 80px;
+}
+
+.pic-9 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 80px;
+}
+
+.donate {
+    text-align: right;
+    background-color: #0E9223;
+    color: #FFFFFF;
+    margin-right: 90px;
+    font-size: 36px;
+}
+
+.footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f88a09;
+    height: 40px;
+    margin-top: 150px;
+}
+
+.footer .fa-copyright {
+    color: white;
+    text-align: center;
+    font-size: smaller;
+    margin-top: 10px;
+}
